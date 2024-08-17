@@ -16,7 +16,7 @@
   text-align: center;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 393px) {
   body {
     padding: 40px;
   }

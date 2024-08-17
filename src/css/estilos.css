@@ -24,13 +24,13 @@ body{
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
-  min-height: 110vh;
+  min-height: 100vh;
 }
 
 .informacoes h1{
   font-size: 35px;
   color: goldenrod;
-  margin-bottom: 25px;
+  margin-bottom: 80px;
   font-family: "GOT";
   letter-spacing: 8px;
 
@@ -48,11 +48,11 @@ body{
 }
 
 .informacoes .descricao{
-  width: 49%;
-  font-size: 24px;
+  width: 50%;
+  font-size: 20px;
   color: yellow;
-  line-height: 40px;
-  height: 300px;
+  line-height: 35px;
+  height: 250px;
   overflow: auto;
   padding-right: 15px;
 
@@ -66,7 +66,7 @@ body{
 }
 
 .botoes-carrossel{
-   display: flex;
+  display: flex;
   justify-content: center;
   gap: 20px;
 }
